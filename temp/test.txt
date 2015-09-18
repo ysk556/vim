@@ -1,0 +1,23 @@
+'<a href="#">click here</a>'
+Improve your writing by deleting most adjectives.
+Practical vim
+1) line one
+2) line two
+3) line three
+I like fish and chips.
+collection = getCollection();
+process(collection, target);
+
+<table>
+
+  <tr>
+    <td>Keystrokes</td>
+    <td>Buffer Contents</td>
+  </tr>
+
+  <tr>
+    <td>Keystrokes</td>
+    <td>Buffer Contents</td>
+  </tr>
+
+</table>
